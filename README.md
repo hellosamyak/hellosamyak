@@ -10,7 +10,7 @@
 - 
 - 😄 Pronouns: He/Him
 - 
-- ⚡ Fun fact: When I'm not coding, you can find me exploring new tech trends or gaming!
+- ⚡ Fun fact: When I'm not coding, you can find me exploring new tech trends.
 
 
 <!---
